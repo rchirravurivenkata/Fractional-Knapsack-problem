@@ -29,7 +29,7 @@ $ Enter the values and weights after knapsack attributes placing spaces between 
 
 ```
 
-##### As shown in the example above the first two integers (3, 50) are total number of items (n) and total weight the knapsack (W) can hold. The next set of numbers are values (**v**<sub>i</sub>) and weights (**w**<sub>i</sub>) of an i-th item respectively. 
+##### As shown in the example above, the first two integers (3, 50) are total number of items (n) and total weight the knapsack (W) can hold. The next set of numbers are values (**v**<sub>i</sub>) and weights (**w**<sub>i</sub>) of an i-th item respectively. 
 
 
 ## References:
