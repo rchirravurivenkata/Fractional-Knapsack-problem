@@ -4,7 +4,7 @@
 
 #### In theoretical computer science, the continuous knapsack problem is an algorithmic problem in combinatorial optimization in which the goal is to fill a container with fractional amounts of different materials chosen to maximize the value of the selected material.
 
-#### This algorithm attempts to address the fractional knapsack problem by calculating the actual value of each item and the capacity of the knapsack. Inherently, it uses a greedy approach by including the maximum valued item until the item is exhausted or the knapsack is filled. 
+#### This algorithm attempts to address the fractional knapsack problem by calculating the actual value of each item and the capacity of the knapsack. Inherently, it uses a greedy approach by including the maximum valued item until the item is either exhausted or the knapsack is filled. 
 
 ## Directions
 
