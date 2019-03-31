@@ -8,10 +8,15 @@
 
 ## Directions
 
-#### Download the python script
+#### Download the python script using the below bash/shell command
 
 ```
 $ git clone https://github.com/rcvenkata/Fractional-Knapsack-problem.git
+```
+#### Access the folder
+
+```
+$ cd ~/Downloads/Fractional-Knapsack-problem
 ```
 #### Run the script
 
